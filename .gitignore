@@ -1,0 +1,11 @@
+.idea/
+.firebase/
+*.local
+firebase-debug.log
+firebase-debug.*.log
+serviceAccount*.json
+.env
+functions/venv/
+functions/__pycache__/
+functions/**/__pycache__/
+*.py[cod]
